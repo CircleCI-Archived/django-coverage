@@ -1,7 +1,7 @@
 django-coverage
 ===============
 
-![CircleCI Status](https://circleci.com/gh/circleci/django-coverage.png?circle-token=dfcbc4d5ddc5ebd9dc3e408c83bab3233b3c2617)
+[![Circle CI](https://circleci.com/gh/circleci/django-coverage.png?style=badge&circle-token=dfcbc4d5ddc5ebd9dc3e408c83bab3233b3c2617)](https://circleci.com/gh/circleci/django-coverage)
 
 This is an example of a django application that is configured to run tests on CircleCI, record code coverage data with [coverage.py](http://nedbatchelder.com/code/coverage/), and save html coverage reports to CircleCI for later viewing.
 
