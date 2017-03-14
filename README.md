@@ -5,9 +5,6 @@ django-coverage
 
 This is an example of a django application that is configured to run tests on CircleCI, record code coverage data with [coverage.py](http://nedbatchelder.com/code/coverage/), and save html coverage reports to CircleCI for later viewing.
 
-##The Video
-A complete video guide to setting this project up to run on Circle is available HERE.
-
 ##Downloading and Running
 * Just fork the repo and follow it on CircleCI to get see it build
 * Clone the repo and run `pip install -r requirements.txt` (optionally inside a virtualenv) to install the dependencies
